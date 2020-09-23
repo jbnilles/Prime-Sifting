@@ -1,0 +1,11 @@
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting\obj\Debug\netcoreapp2.2\PrimeSifting.csprojAssemblyReference.cache
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting\obj\Debug\netcoreapp2.2\PrimeSifting.csproj.CoreCompileInputs.cache
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting\obj\Debug\netcoreapp2.2\PrimeSifting.AssemblyInfoInputs.cache
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting\obj\Debug\netcoreapp2.2\PrimeSifting.AssemblyInfo.cs
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting\bin\Debug\netcoreapp2.2\PrimeSifting.deps.json
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting\bin\Debug\netcoreapp2.2\PrimeSifting.runtimeconfig.json
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting\bin\Debug\netcoreapp2.2\PrimeSifting.runtimeconfig.dev.json
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting\bin\Debug\netcoreapp2.2\PrimeSifting.dll
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting\bin\Debug\netcoreapp2.2\PrimeSifting.pdb
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting\obj\Debug\netcoreapp2.2\PrimeSifting.dll
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting\obj\Debug\netcoreapp2.2\PrimeSifting.pdb

@@ -1,0 +1,17 @@
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\obj\Debug\netcoreapp2.2\PrimeSifting.Tests.csprojAssemblyReference.cache
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\obj\Debug\netcoreapp2.2\PrimeSifting.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\obj\Debug\netcoreapp2.2\PrimeSifting.Tests.AssemblyInfoInputs.cache
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\obj\Debug\netcoreapp2.2\PrimeSifting.Tests.AssemblyInfo.cs
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\bin\Debug\netcoreapp2.2\PrimeSifting.Tests.deps.json
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\bin\Debug\netcoreapp2.2\PrimeSifting.Tests.runtimeconfig.json
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\bin\Debug\netcoreapp2.2\PrimeSifting.Tests.runtimeconfig.dev.json
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\bin\Debug\netcoreapp2.2\PrimeSifting.Tests.dll
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\bin\Debug\netcoreapp2.2\PrimeSifting.Tests.pdb
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\bin\Debug\netcoreapp2.2\PrimeSifting.dll
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\bin\Debug\netcoreapp2.2\PrimeSifting.pdb
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\obj\Debug\netcoreapp2.2\PrimeSifting.Tests.csproj.CopyComplete
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\obj\Debug\netcoreapp2.2\PrimeSifting.Tests.dll
+C:\Users\bnilles\Desktop\epi\primeSiftingC#\PrimeSifting.solution\PrimeSifting.Tests\obj\Debug\netcoreapp2.2\PrimeSifting.Tests.pdb
